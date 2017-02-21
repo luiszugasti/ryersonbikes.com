@@ -5,3 +5,7 @@ theme = "prologue"
 
 [params]
 	copyright = "Ryerson Bike Club 2017"
+
+	[params.social.twitter]
+	icon = "twitter"
+	link = "http://twitter.com/ryersonbikes"
