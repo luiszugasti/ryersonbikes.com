@@ -1,3 +1,4 @@
 title = "Ryerson Bike Club"
 baseurl = "https://ryersonbikes.com"
 languageCode = "en-ca"
+theme = "prologue"
