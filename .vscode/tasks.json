@@ -32,9 +32,15 @@
         },
         {
             "taskName": "deploy",
-            "command": "./deploy",
+            "command": "aws",
+            "args": [
+                "s3",
+                "sync",
+                "public",
+                "s3://www.ryersonbikes.com"
+            ],
             "isShellCommand": true,
             "showOutput": "always"
-        } 
+        }
     ]
 }

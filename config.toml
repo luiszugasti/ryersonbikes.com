@@ -1,10 +1,10 @@
-title = "Ryerson Bike Club"
+title = "Ryerson Cycling Club"
 baseurl = "https://ryersonbikes.com"
 languageCode = "en-ca"
 theme = "prologue"
 
 [params]
-	copyright = "Ryerson Bike Club 2017"
+	copyright = "Ryerson Cycling Club 2017"
 
 	[params.social.twitter]
 	icon = "twitter"
