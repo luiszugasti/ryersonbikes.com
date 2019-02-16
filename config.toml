@@ -1,11 +1,13 @@
-title = "Ryerson Cycling Club"
+title = "Ryerson University Cycling Club"
 baseurl = "https://ryersonbikes.com"
 languageCode = "en-ca"
 theme = "prologue"
 
 [params]
-	copyright = "Ryerson Cycling Club 2017"
+	copyright = "Ryerson University Cycling Club 2019"
 
 	[params.social.twitter]
 	icon = "twitter"
 	link = "http://twitter.com/ryersonbikes"
+	icon = "facebook"
+	link = "https://www.facebook.com/RUCycling/"
