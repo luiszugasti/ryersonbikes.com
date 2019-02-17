@@ -9,5 +9,6 @@ theme = "prologue"
 	[params.social.twitter]
 	icon = "twitter"
 	link = "http://twitter.com/ryersonbikes"
+	[params.social.facebook]
 	icon = "facebook"
 	link = "https://www.facebook.com/RUCycling/"
