@@ -11,7 +11,11 @@ theme = "prologue"
 	link = "http://twitter.com/ryersonbikes"
 	[params.social.facebook]
 	icon = "facebook"
+<<<<<<< HEAD
 	link = "https://www.facebook.com/RUCycling/"
 	[params.social.instagram]
 	icon = "instagram"
 	link = "https://www.instagram.com/ru.cycling/"
+=======
+	link = "https://www.facebook.com/RUCycling/"
+>>>>>>> 749475cdb03d5f612dac2f85e0931a981e4e193a
