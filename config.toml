@@ -1,0 +1,17 @@
+title = "Ryerson University Cycling Club"
+baseurl = "https://ryersonbikes.com"
+languageCode = "en-ca"
+theme = "prologue"
+
+[params]
+	copyright = "Ryerson University Cycling Club 2019"
+
+	[params.social.twitter]
+	icon = "twitter"
+	link = "http://twitter.com/ryersonbikes"
+	[params.social.facebook]
+	icon = "facebook"
+	link = "https://www.facebook.com/RUCycling/"
+	[params.social.instagram]
+	icon = "instagram"
+	link = "https://www.instagram.com/ru.cycling/"

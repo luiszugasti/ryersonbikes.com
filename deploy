@@ -1,0 +1,8 @@
+#!/bin/sh
+#USER=mitchell
+#HOST=mohorovich.com
+#DIR=/var/www/ryersonbikes.com/public
+
+#hugo && rsync -avz --delete public/ ${USER}@${HOST}:${DIR}
+
+#exit 0

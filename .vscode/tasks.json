@@ -1,0 +1,46 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "0.1.0",
+    "tasks": [
+        {
+            "taskName": "build",
+            "command": "hugo",
+            "isShellCommand": true,
+            "showOutput": "always"
+        },
+        {
+            "taskName": "server",
+            "isBackground": true,
+            "command": "hugo",
+            "isShellCommand": true,
+            "showOutput": "silent",
+            "args": [
+                "server"
+            ]
+        },
+        {
+            "taskName": "server with drafts",
+            "isBackground": true,
+            "command": "hugo",
+            "isShellCommand": true,
+            "showOutput": "always",
+            "args": [
+                "server",
+                "--buildDrafts"
+            ]
+        },
+        {
+            "taskName": "deploy",
+            "command": "aws",
+            "args": [
+                "s3",
+                "sync",
+                "public",
+                "s3://www.ryersonbikes.com"
+            ],
+            "isShellCommand": true,
+            "showOutput": "always"
+        }
+    ]
+}
