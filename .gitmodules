@@ -1,9 +1,9 @@
-[submodule "themes/prologue"]
-	path = themes/prologue
-	url = https://github.com/sethmacleod/prologue.git
 [submodule "themes/hugo-creative-theme"]
 	path = themes/hugo-creative-theme
 	url = https://github.com/digitalcraftsman/hugo-creative-theme
 [submodule "themes/hugo-strata-theme"]
 	path = themes/hugo-strata-theme
 	url = https://github.com/digitalcraftsman/hugo-strata-theme.git
+[submodule "themes/hugo-prologue"]
+	path = themes/hugo-prologue
+	url = https://github.com/sethmacleod/prologue
