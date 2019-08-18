@@ -407,4 +407,7 @@ __pycache__/
 # tools/**
 # !tools/packages.config
 
+# Word
+*.docx
+
 # End of https://www.gitignore.io/api/macos,windows,hugo,visualstudio,visualstudiocode,intellij,linux:want
