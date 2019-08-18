@@ -28,8 +28,8 @@ theme = "hugo-serif-theme"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Routes"
-    url = "/routes/"
+    name = "Resources"
+    url = "/resources/"
       weight = 1
 
   [[menu.main]]
