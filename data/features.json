@@ -1,12 +1,18 @@
 [
   {
-    "title": "Recurring Rides",
-    "description": "Join us for bi-weekly rides scheduled on Facebook and via our mailing list.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "All Bikes Welcome",
+    "description": "From cruiser bikes to Cervelo Road, there's a ride for almost everyone.",
+    "image": "img/icons/001-bicycle.svg"
   },
   {
-    "title": "Bike Events",
-    "description": "We organize and take part in bike-oriented events around Ryerson.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "title": "Bi-weekly Rides",
+    "description": "We organize rides all around this city.",
+    "image": "img/icons/036-wheel.svg"
+  },
+  {
+	"title": "We're on Strava",
+	"description": "Brownie points are most definetly available.",
+	"image": "img/icons/034-trophy.svg"
   }
 ]
+

@@ -1,8 +1,8 @@
 baseURL = "www.ryersonbikes.com"
 languageCode = "en-us"
 title = "Ryerson University Cycling Club"
-themesDir = "../.."
-theme = "themes/hugo-serif-theme"
+#themesDir = "../.."
+theme = "hugo-serif-theme"
 
 [params]
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
@@ -28,15 +28,25 @@ theme = "themes/hugo-serif-theme"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
-    url = "/services/"
+    name = "Routes"
+    url = "/routes/"
       weight = 1
 
   [[menu.main]]
       name = "Team"
       url = "/team/"
       weight = 2
+	 
+  [[menu.main]]
+      name = "About"
+      url = "/about/"
+      weight = 3
 
+  [[menu.main]]
+      name = "Contact"
+      url = "/Contact/"
+      weight = 4  
+	  
   # Footer Menu
   [[menu.footer]]
     name = "Home"
