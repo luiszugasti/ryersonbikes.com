@@ -1,11 +1,16 @@
 ---
 title: "Luis Zugasti"
 image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "President"
+jobtitle: "President, Supervisor, Developer"
 weight: 1
 ---
 
-I'm in my last year of Computer Engineering at Ryerson University. I love biking, with a preference for riding in the rain. Yes, I am crazy.
+I'm in my last year of Computer Engineering at Ryerson University. I love
+biking, with a preference for riding in the rain. I like to talk about bikes,
+coding, and Mexican food. I am a quite experienced rider, and cycle-commuter.
+When I'm not at Ryerson you'll often find me in Farmers Markets or trying to
+clean my bikes and swearing not to ride them again so they stay shining. And
+then continuing to ride them.
 
 # Bikes
 

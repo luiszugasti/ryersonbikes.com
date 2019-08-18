@@ -28,23 +28,23 @@ theme = "hugo-serif-theme"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Resources"
-    url = "/resources/"
+    name = "Activities"
+    url = "/activities/"
       weight = 1
+
+  [[menu.main]]
+      name = "Contact"
+      url = "/contact/"
+      weight = 2
+	 
+  [[menu.main]]
+      name = "Resources"
+      url = "/resources/"
+      weight = 3
 
   [[menu.main]]
       name = "Team"
       url = "/team/"
-      weight = 2
-	 
-  [[menu.main]]
-      name = "About"
-      url = "/about/"
-      weight = 3
-
-  [[menu.main]]
-      name = "Contact"
-      url = "/Contact/"
       weight = 4  
 	  
   # Footer Menu
