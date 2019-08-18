@@ -2,7 +2,6 @@
 title: "Chelsea Gould"
 image: "images/team/sage-kirk-485982-unsplash.jpg"
 jobtitle: "Communications Lead"
-linkedinurl: ""
 weight: 2
 ---
 
