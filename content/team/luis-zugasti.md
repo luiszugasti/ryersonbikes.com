@@ -1,6 +1,6 @@
 ---
 title: "Luis Zugasti"
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
+#image: "images/team/peter-van-eijk-711986-unsplash.jpg"
 jobtitle: "President, Supervisor, Developer"
 weight: 1
 ---

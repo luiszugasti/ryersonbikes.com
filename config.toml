@@ -1,4 +1,4 @@
-baseURL = "www.ryersonbikes.com"
+baseURL = "serene-lamport-347127.netlify.com" # www.ryersonbikes.com
 languageCode = "en-us"
 title = "Ryerson University Cycling Club"
 #themesDir = "../.."
@@ -10,20 +10,20 @@ theme = "hugo-serif-theme"
   # google_tag_manager_id = ""
 
   [params.logo]
-    # mobile = "images/logo-mobile.svg"
-    # standard  = "images/logo.svg"
-    # alt = "Serif - A Hugo Business Theme"
+    mobile = "img/avatar.gif"
+    standard  = "img/avatar.gif"
+    alt = "RUCC"
 
   [params.homepage_meta_tags]
     meta_description = "Ryerson University Cycling Club is Ryerson's only club focused on Biking Culture and Rides."
     meta_og_title = "Ryerson University Cycling Club"
     meta_og_type = "website"
     meta_og_url = "www.ryersonbikes.com"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
+    # meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
     meta_og_description = "Ryerson University Cycling Club is Ryerson's only club focused on Biking Culture and Rides."
     meta_twitter_card = "summary"
     meta_twitter_site = "@ryersonbikes"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_creator = "@luis_zugasti"
 
 [menu]
   # Main Menu
