@@ -10,6 +10,3 @@
 [submodule "themes/hugo-minimalist-theme"]
 	path = themes/hugo-minimalist-theme
 	url = https://github.com/digitalcraftsman/hugo-minimalist-theme.git
-[submodule "themes/hugo-serif-theme"]
-	path = themes/hugo-serif-theme
-	url = https://github.com/JugglerX/hugo-serif-theme
