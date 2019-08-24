@@ -4,6 +4,7 @@
 ### Hugo ###
 hugo.exe
 /public/
+/resources/
 deploy
 ### Intellij ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
