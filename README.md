@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/adbfbaee-2b95-462e-a2a0-3e775a45c4f3/deploy-status)](https://app.netlify.com/sites/serene-lamport-347127/deploys)
