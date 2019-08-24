@@ -410,4 +410,6 @@ __pycache__/
 # Word
 *.docx
 
+# Uneccessary themes
+themes/airspace-hugo/
 # End of https://www.gitignore.io/api/macos,windows,hugo,visualstudio,visualstudiocode,intellij,linux:want
