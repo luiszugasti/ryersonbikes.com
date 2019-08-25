@@ -402,8 +402,15 @@ paket-files/
 __pycache__/
 *.pyc
 
+#Unneeded themes
+hugo-minimalist-theme/
+
 # Cake - Uncomment if you are using it
 # tools/**
 # !tools/packages.config
+
+#word
+*.doc
+*.docx
 
 # End of https://www.gitignore.io/api/macos,windows,hugo,visualstudio,visualstudiocode,intellij,linux:want
