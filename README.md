@@ -1,6 +1,6 @@
 # ryersonbikes.com
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/adbfbaee-2b95-462e-a2a0-3e775a45c4f3/deploy-status)](https://app.netlify.com/sites/serene-lamport-347127/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3d8517cb-7d47-4cbe-b1f2-0351fd24d287/deploy-status)](https://app.netlify.com/sites/ryersonbikes/deploys)
 
 The official repo for the ryersonbikes.com website. Written in Markdown and JavaScript, the ryersonbikes repo provides the infrastructure for the creation of the website onto the web.
 
