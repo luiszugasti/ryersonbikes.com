@@ -1,12 +1,3 @@
-[submodule "themes/hugo-creative-theme"]
-	path = themes/hugo-creative-theme
-	url = https://github.com/digitalcraftsman/hugo-creative-theme
-[submodule "themes/hugo-strata-theme"]
-	path = themes/hugo-strata-theme
-	url = https://github.com/digitalcraftsman/hugo-strata-theme.git
-[submodule "themes/hugo-prologue"]
-	path = themes/hugo-prologue
-	url = https://github.com/sethmacleod/prologue
 [submodule "themes/hugo-serif-theme"]
 	path = themes/hugo-serif-theme
 	url = https://github.com/luiszugasti/hugo-serif-theme
