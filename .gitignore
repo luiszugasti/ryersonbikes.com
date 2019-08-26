@@ -4,6 +4,8 @@
 ### Hugo ###
 hugo.exe
 /public/
+/resources/
+deploy
 ### Intellij ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
@@ -409,8 +411,16 @@ hugo-minimalist-theme/
 # tools/**
 # !tools/packages.config
 
+<<<<<<< HEAD
 #word
 *.doc
 *.docx
 
+=======
+# Word
+*.docx
+
+# Uneccessary themes
+themes/airspace-hugo/
+>>>>>>> b1ce52274cdf9876245f1a4052eb86ae265135e4
 # End of https://www.gitignore.io/api/macos,windows,hugo,visualstudio,visualstudiocode,intellij,linux:want

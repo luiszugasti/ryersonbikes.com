@@ -8,7 +8,5 @@
 	path = themes/hugo-prologue
 	url = https://github.com/sethmacleod/prologue
 [submodule "themes/hugo-serif-theme"]
-	
 	path = themes/hugo-serif-theme
-
 	url = https://github.com/luiszugasti/hugo-serif-theme

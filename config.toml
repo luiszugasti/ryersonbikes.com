@@ -1,17 +1,59 @@
+baseURL = "" # www.ryersonbikes.com
+languageCode = "en-us"
 title = "Ryerson University Cycling Club"
-baseurl = "https://ryersonbikes.com"
-languageCode = "en-ca"
-theme = "hugo-prologue"
+#themesDir = "../.."
+theme = "hugo-serif-theme"
 
 [params]
-	copyright = "Ryerson University Cycling Club 2019"
+  # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
+  # google_analytics_id = ""
+  # google_tag_manager_id = ""
 
-	[params.social.twitter]
-	icon = "twitter"
-	link = "http://twitter.com/ryersonbikes"
-	[params.social.facebook]
-	icon = "facebook"
-	link = "https://www.facebook.com/RUCycling/"
-	[params.social.instagram]
-	icon = "instagram"
-	link = "https://www.instagram.com/ru.cycling/"
+  [params.logo]
+    mobile = "img/avatar.gif"
+    standard  = "img/avatar.gif"
+    alt = "RUCC"
+
+  [params.homepage_meta_tags]
+    meta_description = "Ryerson University Cycling Club is Ryerson's only club focused on Biking Culture and Rides."
+    meta_og_title = "Ryerson University Cycling Club"
+    meta_og_type = "website"
+    meta_og_url = "www.ryersonbikes.com"
+    # meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
+    meta_og_description = "Ryerson University Cycling Club is Ryerson's only club focused on Biking Culture and Rides."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@ryersonbikes"
+    meta_twitter_creator = "@luis_zugasti"
+
+[menu]
+  # Main Menu
+  [[menu.main]]
+    name = "Activities"
+    url = "/activities/"
+      weight = 1
+
+  [[menu.main]]
+      name = "Contact"
+      url = "/contact/"
+      weight = 2
+	 
+  [[menu.main]]
+      name = "Resources"
+      url = "/resources/"
+      weight = 3
+
+  [[menu.main]]
+      name = "Team"
+      url = "/team/"
+      weight = 4  
+	  
+  # Footer Menu
+  [[menu.footer]]
+    name = "Home"
+    url = "/"
+      weight = 1
+
+  [[menu.footer]]
+    name = "Contact"
+    url = "/contact/"
+      weight = 2

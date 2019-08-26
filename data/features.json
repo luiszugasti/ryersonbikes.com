@@ -1,0 +1,18 @@
+[
+  {
+    "title": "All Bikes Welcome",
+    "description": "From cruiser bikes to Cervelo Road, there's a ride for almost everyone.",
+    "image": "img/icons/001-bicycle.svg"
+  },
+  {
+    "title": "Bi-weekly Rides",
+    "description": "We organize rides all around this city.",
+    "image": "img/icons/036-wheel.svg"
+  },
+  {
+	"title": "We're on Strava",
+	"description": "Brownie points are most definetly available.",
+	"image": "img/icons/034-trophy.svg"
+  }
+]
+
