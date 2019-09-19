@@ -8,5 +8,4 @@ intro_image_hide_on_mobile: true
 
 # Ryerson University Bike Club
 
-## The Ryerson Cycling Club aims to bring all Ryersonian Cyclists together on
-social rides, expeditions and more, across the city of Toronto and beyond.
+## The Ryerson Cycling Club aims to bring all Ryersonian Cyclists together on social rides, expeditions and more, across the city of Toronto and beyond.
