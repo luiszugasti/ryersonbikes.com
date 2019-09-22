@@ -8,4 +8,4 @@ title: 'Home'
 
 # Our Activities
 
-## Our main focus is to unite all Ryersonian Cyclists with rides. However, we also partake in partnerships with other student groups, take part in events at Ryerson and the community in general. Follow each link to learn more.
+## Our main focus is to unite Ryerson cyclists through rides and discussions. We also partake in Ryerson and community events with other student groups. Follow each link to learn more about our activities.
