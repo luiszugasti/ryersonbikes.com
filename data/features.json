@@ -6,12 +6,12 @@
   },
   {
     "title": "Bi-weekly Rides",
-    "description": "We organize rides all around this city.",
+    "description": "We organize rides all over Toronto, throughout the year.",
     "image": "img/icons/036-wheel.svg"
   },
   {
-	"title": "We're on Strava",
-	"description": "Brownie points are most definetly available.",
+	"title": "Join us on <a href="https://www.strava.com/clubs/ryerson-university-bike-club-251109">Strava</a>",
+	"description": "Score some brownie points for your efforts.",
 	"image": "img/icons/034-trophy.svg"
   }
 ]
