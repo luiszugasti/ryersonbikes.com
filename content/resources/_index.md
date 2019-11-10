@@ -14,4 +14,3 @@ As always, if you have any questions don't hesitate to contact us.
 # Routes
 
 Explore this city on your own or hold your own expeditions. Recommend routes to share with the Ryerson Community. Declare your stomping grounds - and enjoy the ride.
-### Currently a work in progress

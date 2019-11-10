@@ -1,7 +1,8 @@
 ---
 title: "Luis Zugasti"
-#image: "images/team/peter-van-eijk-711986-unsplash.jpg"
+image: "img/team/Luis compressed.jpg"
 jobtitle: "President, Supervisor, Developer"
+#President, Supervisor, Developer
 weight: 1
 ---
 
@@ -16,3 +17,5 @@ then continuing to ride them.
 
 - Orbea Avant H60 2015
 - Norco Storm 6.1 2012
+- Raleigh Sprite 1970's
+- Raleigh Grand Prix 1970's

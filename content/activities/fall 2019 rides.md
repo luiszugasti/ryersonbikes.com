@@ -1,8 +1,6 @@
 ---
 title: "Fall 2019 Rides"
-date: 2019-09-18T16:52:31-04:00
-featured: true
-weight: 1
+intro_image: "img/team/Chelsey compressed.jpg"
 ---
 
 For the Fall 2019 semester, we are holding bi-weekly rides starting from the Ryerson University Campus Store (17 Gould St.). Check out our <a href="https://www.facebook.com/RUCycling/">Facebook page</a> and/or sign up for our newsletter for information on upcoming rides. 
