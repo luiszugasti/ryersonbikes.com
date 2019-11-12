@@ -18,4 +18,5 @@ riding with friends, and in a competition/race, here and there. Most of all,
 cycling is a source of peace for me, a time to relax amidst an otherwise busy 
 schedule. Hopefully, I can ride with as many RUCC members as possible this year.
 
-
+# Bikes
+- Rocky Mountain 29er Hardtail
