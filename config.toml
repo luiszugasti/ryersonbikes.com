@@ -10,8 +10,8 @@ theme = "hugo-serif-theme"
   # google_tag_manager_id = ""
 
   [params.logo]
-    mobile = "img/avatar.gif"
-    standard  = "img/avatar.gif"
+    mobile = "img/RUCC logo horizontal.gif"
+    standard  = "img/RUCC logo horizontal.gif"
     alt = "RUCC"
 
   [params.homepage_meta_tags]
