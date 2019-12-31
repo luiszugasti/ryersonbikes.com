@@ -13,8 +13,7 @@ the path up north, all the way to Malton region.
 This epic route consists of a consistent climb
 but breathtaking scenery in the summer and autumn.
 
-Beware of runners around blind corners. You'll likely
-have to pace yourself in some areas.
+Beware of runners around blind corners. You will likely have to pace yourself in some areas.
 
 - Round trip distance: 85 kilometers
 - Difficulty: 3/10
