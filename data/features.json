@@ -1,12 +1,12 @@
 [
   {
     "title": "All Bikes Welcome",
-    "description": "Road bike or Cruiser, there's a ride for almost everyone.",
+    "description": "Road bike to Cruiser, there's a ride for almost everyone.",
     "image": "img/icons/001-bicycle.svg"
   },
   {
     "title": "Bi-weekly Rides",
-    "description": "We organize rides all over Toronto and the GTA.",
+    "description": "We organize rides all over the Greater Toronto Area.",
     "image": "img/icons/036-wheel.svg"
   },
   {
@@ -15,4 +15,3 @@
 	"image": "img/icons/034-trophy.svg"
   }
 ]
-

@@ -7,15 +7,15 @@ weight: 2
 For the Winter 2020 semester, we'll be holding different ride disciplines.
 (17 Gould Street) at 9 a.m. on Saturdays. If you are a new rider, please sign the [online waiver](https://docs.google.com/forms/d/e/1FAIpQLSf_SQXZpJ8VWwdOoR24TNzH5SU0cQUqaH8j7kEnyIWXPkU8IQ/viewform?vc=0&c=0&w=1).
 
-See below for our ride event types [legend explained at the bottom of the page](#event-legend):
+See below for our ride event types [(legend explained at the bottom of the page)](#event-legend):
 
 # Casual, Gentle Rides (10-15/ND/L/3-4)
 
 These rides are currently open for 10-15 km/h target pace, are three to
 four hours in length, with a lunch/picnic in the middle.
 
-We take a lot of pictures during these rides. Casual rides are generally 
-chill. Don't expect to set a speed record here. 
+We take a lot of pictures during these rides. Casual rides are generally
+chill. Don't expect to set a speed record here.
 
 Rides are no-drop (no rider left behind) and all bikes are welcome.
 
