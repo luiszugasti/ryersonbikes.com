@@ -21,12 +21,15 @@ The official repo for the ryersonbikes.com website. Written in Markdown and Java
 
 > git add activities/volunteering.md
 
-3. Commit it, then push the changes to the repo.
+3. Commit it to your local staging area:
 
 > git commit -m "meaningful commit message here"
+
+4. Push it back to the github repo!
+
 > git push origin master
 
-4. Watch the Netflify status bar on the top, to make sure that your changes were published!
+5. Watch the Netflify status bar on the top, to make sure that your changes were published!
 
 ## New image assets
 
