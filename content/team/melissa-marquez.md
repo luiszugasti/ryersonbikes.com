@@ -2,7 +2,7 @@
 title: "Melissa Marquez"
 image: "img/team/Melissa compressed.jpg"
 jobtitle: "Communications Co-lead"
-weight: 1
+weight: 5
 ---
 
 I'm a third-year nursing student at Ryerson. Since moving downtown, I've really come to appreciate cycling 
