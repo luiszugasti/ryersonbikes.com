@@ -1,6 +1,6 @@
 ---
 title: "Types of Rides"
-weight: 2
+weight: 3
 # To change the order of the files, use the weight attribute.
 ---
 

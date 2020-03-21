@@ -1,6 +1,6 @@
 ---
 title: "Winter 2020 Rides"
-weight: 1
+weight: 2
 date: 2019-11-29T16:31:41-05:00
 ---
 

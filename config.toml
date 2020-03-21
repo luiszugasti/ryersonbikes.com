@@ -1,4 +1,4 @@
-baseURL = "https://ryersonbikes.com" # I believe this will fix clicking on RUCC link.
+baseURL = "https://ryersonbikes.com"
 languageCode = "en-us"
 title = "Ryerson University Cycling Club"
 #themesDir = "../.."
