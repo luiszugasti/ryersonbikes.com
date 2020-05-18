@@ -5,7 +5,7 @@ jobtitle: "Supervisor"
 weight: 6
 ---
 
-I'm recent graduate of Ryerson Biomedical Engineering. Born and raised in
+I'm a recent graduate of Ryerson Biomedical Engineering. Born and raised in
 downtown Toronto apartments. I began cycling purely as a method of transit to
 avoid TTC costs, but soon picked up bike building and restoration as a hobby.
 My entire fleet is hand built and customized from scavenged parts, donations
