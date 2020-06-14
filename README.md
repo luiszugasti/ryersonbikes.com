@@ -13,6 +13,7 @@ The official repo for the ryersonbikes.com website. Written in Markdown and Java
 > git clone https://github.com/luiszugasti/ryersonbikes.com
 
 ## New posts
+
 1. To make edits, add a new page (example from the root folder, to make a new activity):
 
 > hugo new activities/volunteering.md
@@ -34,3 +35,15 @@ The official repo for the ryersonbikes.com website. Written in Markdown and Java
 ## New image assets
 
 All the images to be used are located in the static -> img folder. To add files here, simply drag and drop from your explorer to the folder. Please limit the size of the images to at most 500 Kb to keep the site running light.
+
+## Development Assets
+
+There's quite a few entry points to editing the overall structure of the site. This section aims to show how to access these points and what to do with them in an FAQ-like format.
+
+All entries assume a starting point at the root of the project.
+
+### How to edit the sections
+
+> config.toml > [menu] > [menu.main]
+
+### How to
