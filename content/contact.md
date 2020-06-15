@@ -1,7 +1,6 @@
 ---
 title: 'Contact'
 layout: contact
-#menu: 'main'
 ---
 
 For any inquiries about joining the club,

@@ -42,8 +42,36 @@ There's quite a few entry points to editing the overall structure of the site. T
 
 All entries assume a starting point at the root of the project.
 
-### How to edit the sections
+### How to edit which sections show up in the main navigation bar
 
-> config.toml > [menu] > [menu.main]
+1. Navigate to the config.toml file in the root directory of the project.
+2. Then, within the file, navigate to these sub-sections:
+   `config.toml > [menu] > [menu.main]`
+3. Add a line for the name that will be shown in the navigation bar, the url suffix and the _weight_: the order in which this heading, relative to others, will be shown.
 
-### How to
+### How to add an article
+
+As an example, let's create an article for the _bike-repair_ section.
+For the following instructions, you may need to change the orientation of your slashes. These instructions assume Windows as an operating system and Powershell as a command line interface.
+
+1. Run the hugo new post command from the root directory. If you don't know what your root
+   directory is, on a command line, navigate to `$Your-user-directory\ryersonbikes.com`.
+   The hugo command to run afterwards is:
+
+    `hugo new .\content\resources\bike-repair\my-first-post.md`
+
+    Replace _my-first-post_ with the title of your desired article.
+
+2. Open this file up in your desired text editor. You'll see the following:
+
+```
+---
+title: "My First Post"
+date: 2020-06-15T12:26:30-04:00
+draft: true
+---
+```
+
+The title will be all the dash separated words capitalized, and the date and time of when you ran the command will be saved. Additionally, the draft flag will be set to `true`. This means that, until you remove the line with this attribute, your post will not be shown.
+
+That's it! If you need a refresher for mark down, I highly recommend starting with this [resource](https://www.markdownguide.org/cheat-sheet).

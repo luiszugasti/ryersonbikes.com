@@ -1,11 +1,11 @@
 ---
 title: 'Beltline Trail (from Mount Pleasant Cemetery)'
-intro_image: "img/resources/routes/Beltline trail map.png"
+intro_image: 'img/resources/routes/Beltline trail map.png'
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-[Route link](https://www.strava.com/activities/3316699336)
+[Route link](https://www.strava.com/routes/28848023)
 
 This route goes through the quaint Rosedale and Summerhill
 neighbourhoods, including a pedestrian bridge crossing over CPR tracks,
@@ -21,13 +21,13 @@ The Beltine Trail does [continue to loop south of the
 cemetery](https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&dg=feature&mid=14QdDwbU2pzlua2zZvBD3C4CUv7k&ll=43.69307284971749%2C-79.38448423454928&z=15)
 in conditions more suitable for mountain bikes.
 
-<b>Special notes:</b> 
+**Special notes:**
 
 After turning right onto Mount Pleasant Road headed
 north, take a right into Mount Pleasant Cemetery and then a left. You
 will be able to bike under the bridge and meet the entrance to the
 Beltline Trail, bypassing traffic and stairs. This option is only
-available when the cemetery is open. 
+available when the cemetery is open.
 
 Watch for pedestrians on the
 Beltine Trail.
@@ -35,16 +35,14 @@ Beltine Trail.
 The west lanes of Mount Pleasant
 Road have some bumps until the main descent, where it becomes smooth.
 The road is unprotected and can be busy during rush hour, but there are
-two lanes and cars generally have space to pass. 
+two lanes and cars generally have space to pass.
 
 When nearing the
 bottom of the Mount Pleasant hill, make sure to shift down and prepare
-to ascend quickly as the hill goes up. 
+to ascend quickly as the hill goes up.
 
 -   Round trip distance: 20 kilometres
 -   Difficulty: 3/10
 -   Estimated round trip time: 1:15 hours
 -   Paved? 50%
 -   Scenic rating: 3/5
-
-
