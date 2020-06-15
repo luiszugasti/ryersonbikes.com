@@ -21,7 +21,7 @@ The Beltine Trail does [continue to loop south of the
 cemetery](https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&dg=feature&mid=14QdDwbU2pzlua2zZvBD3C4CUv7k&ll=43.69307284971749%2C-79.38448423454928&z=15)
 in conditions more suitable for mountain bikes.
 
-<b>Special notes:</b>
+**Special notes:**
 
 After turning right onto Mount Pleasant Road headed
 north, take a right into Mount Pleasant Cemetery and then a left. You
