@@ -2,7 +2,7 @@
 title: "Devon Santillo"
 image: "img/team/Devon compressed.jpg"
 jobtitle: "Supervisor"
-weight: 6
+weight: 3
 ---
 
 I'm a recent graduate of Ryerson Biomedical Engineering. Born and raised in
