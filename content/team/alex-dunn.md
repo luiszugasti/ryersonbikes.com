@@ -16,5 +16,5 @@ soon!
 
 # Bikes
 
-- Specialized Allez 2012
-- CCM Corsa 1990
+- 2012 Specialized Allez
+- 1990 CCM Corsa
